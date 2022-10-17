@@ -1,7 +1,7 @@
 """The Greeting Generator."""
 
 
- def greeting(name: str) -> str:
+def greeting(name: str) -> str:
     """
     Give the text of greeting.
 
